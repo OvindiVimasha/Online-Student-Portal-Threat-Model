@@ -1,1 +1,1 @@
-# OvindiVimasha-Online-Student-Portal-Threat-Model
+# Online-Student-Portal-Threat-Model
